@@ -16,7 +16,7 @@
     "Name" : "Server01"
   }, {
     "Category" : 2,
-    "DomainOrIP" : "api.twitter.com.private1.sentinelvpn.ml",
+    "DomainOrIP" : "api.twitter.com.private02.sentinelvpn.ml",
     "Flag" : "sg",
     "Name" : "Server02"
   } ],
@@ -24,7 +24,7 @@
     "Format" : 3,
     "ForwardHost" : true,
     "FullHost" : true,
-    "Host" : "9i7j6bBMMk/MnzNTW08lyFRW5C0GSIGBrQs6WbDdonUwHodePGEZUDjAjW/n0AyUNB9vzCR0YZw7a2ynzIgWAQ==",
+    "Host" : "Rl30pUqM8BDrAWEuvlRjSTcVMRNLlVhuypFSD13MbDsx4rnYxsDelfN8TTwxgQPn/hg0vOXm8/iQHWN3O7DczA==",
     "Name" : "GTM GAMES 99",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -37,7 +37,7 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "jyqF2UxqOplMx8LNfJBxdBYkz1gzLP315N6wygTkToK/hNbUlWbg+JW0Sf2IIbTFXJi2eLgPijQeqTC0mdW6rUnekubRdT9tP5k/zpoNXJc=",
+    "Host" : "8k07ExRtMN1q+0rBJ3QoFs2VDpvtD/djrt/H9V1hsxOjgc213tG70t6yc7+hWpb1tm6n4lUtKPt+cDWVYApBXh+/Sb3hLcABfIc7F7Lrfio=",
     "Name" : "SUN TU/CTC 1",
     "OnlineHost" : true,
     "Port" : 8080,
@@ -50,7 +50,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "oBV1J2WH3/Uqzl1sMqU/a2N8bTqeh1Mum6GPG69EdvdvBx9ZbVvFzDLIYstonG7k3hW9R63oT2KJV8JsymDcYQ==",
+    "Host" : "NwmSkbARRo9PTS4oKdENuHNbaW4KBGeVIcw2UpeYYVqqLDV/ZNeDwNPDSd74xNTHDdggSPwTS5Ft2JpDIsfYnw==",
     "Name" : "SUN TU/CTC 2",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -63,7 +63,7 @@
     "Format" : 3,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "q6pGGaTUA3yq2kSvyiz12uMx+QGLGnhYgVzhskOLcxYnVrYIpaKxlFzT2ySa3m6j",
+    "Host" : "QWowIqH7c/U1VfvPDTzqHx8jWuALsawCSU1UzMORC0kJbJ6c//JELFPfhrlzK4H/",
     "Name" : "SUN FIXEDPLAN 300",
     "OnlineHost" : false,
     "Port" : 8000,
@@ -76,7 +76,7 @@
     "Format" : 1,
     "ForwardHost" : false,
     "FullHost" : false,
-    "Host" : "Duy77qeOhZ/68Xagqa6Vt03A0hAt/OFBiVqXOY2At8HK+4HITr69BxJ8tqQQAnbQtRcZ36gEfa3GGCg8BVGI6w==",
+    "Host" : "VaRPRU4yr5a3JJEWgjQpYKEd4xBAigUNwZUmHxxewqT0jdcJva8G5sWmxIC3e3clXsPuOj+JHckImf/MaoSrtg==",
     "Name" : "TALK N TEXT ML10",
     "OnlineHost" : false,
     "Port" : 8080,
@@ -89,9 +89,9 @@
     "Format" : 1,
     "ForwardHost" : true,
     "FullHost" : false,
-    "Host" : "P8UWPyeb19uiyeosEBMrcAmc6nSukJH2aCCvZL05Uw4npW0Q9HNteO54RaEQ1q58",
+    "Host" : "9wMQyVunukRnVu0DiGO5eNTwn+7hOV0LDI+LdykpTfVE1OwAeniZ5/0cS4YefCB1",
     "Name" : "Giga stories",
-    "OnlineHost" : true,
+    "OnlineHost" : false,
     "Port" : 8080,
     "Proxy" : "",
     "ReverseProxy" : false,
@@ -102,5 +102,5 @@
   "GuiCategories" : true,
   "GuiFlags" : true,
   "Changelogs" : "<strong><h1>SENTINEL VPN</h1> </strong>\nNew Released! V1.0  2019 </br><br>\n<br>Owner: Carl Salgado<br>",
-  "Version" : 1.1
+  "Version" : 1.2
 }
